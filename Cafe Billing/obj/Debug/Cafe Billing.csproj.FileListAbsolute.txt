@@ -1,0 +1,30 @@
+G:\Projects\ATI Create\Cafe Billing\bin\Debug\Cafe Billing.exe.config
+G:\Projects\ATI Create\Cafe Billing\bin\Debug\Cafe Billing.exe
+G:\Projects\ATI Create\Cafe Billing\bin\Debug\Cafe Billing.pdb
+G:\Projects\ATI Create\Cafe Billing\bin\Debug\Guna.UI2.dll
+G:\Projects\ATI Create\Cafe Billing\obj\Debug\Cafe Billing.csproj.AssemblyReference.cache
+G:\Projects\ATI Create\Cafe Billing\obj\Debug\Cafe Billing.csproj.SuggestedBindingRedirects.cache
+G:\Projects\ATI Create\Cafe Billing\obj\Debug\Cafe_Billing.dashboard.resources
+G:\Projects\ATI Create\Cafe Billing\obj\Debug\Cafe_Billing.Login.resources
+G:\Projects\ATI Create\Cafe Billing\obj\Debug\Cafe_Billing.Products.resources
+G:\Projects\ATI Create\Cafe Billing\obj\Debug\Cafe_Billing.Properties.Resources.resources
+G:\Projects\ATI Create\Cafe Billing\obj\Debug\Cafe Billing.csproj.GenerateResource.cache
+G:\Projects\ATI Create\Cafe Billing\obj\Debug\Cafe Billing.csproj.CoreCompileInputs.cache
+G:\Projects\ATI Create\Cafe Billing\obj\Debug\Cafe Billing.csproj.CopyComplete
+G:\Projects\ATI Create\Cafe Billing\obj\Debug\Cafe Billing.exe
+G:\Projects\ATI Create\Cafe Billing\obj\Debug\Cafe Billing.pdb
+G:\Projects\ATI\Cafe Billing\bin\Debug\Cafe Billing.exe.config
+G:\Projects\ATI\Cafe Billing\bin\Debug\Cafe Billing.exe
+G:\Projects\ATI\Cafe Billing\bin\Debug\Cafe Billing.pdb
+G:\Projects\ATI\Cafe Billing\bin\Debug\Guna.UI2.dll
+G:\Projects\ATI\Cafe Billing\obj\Debug\Cafe Billing.csproj.AssemblyReference.cache
+G:\Projects\ATI\Cafe Billing\obj\Debug\Cafe Billing.csproj.SuggestedBindingRedirects.cache
+G:\Projects\ATI\Cafe Billing\obj\Debug\Cafe_Billing.dashboard.resources
+G:\Projects\ATI\Cafe Billing\obj\Debug\Cafe_Billing.Login.resources
+G:\Projects\ATI\Cafe Billing\obj\Debug\Cafe_Billing.Products.resources
+G:\Projects\ATI\Cafe Billing\obj\Debug\Cafe_Billing.Properties.Resources.resources
+G:\Projects\ATI\Cafe Billing\obj\Debug\Cafe Billing.csproj.GenerateResource.cache
+G:\Projects\ATI\Cafe Billing\obj\Debug\Cafe Billing.csproj.CoreCompileInputs.cache
+G:\Projects\ATI\Cafe Billing\obj\Debug\Cafe Billing.csproj.CopyComplete
+G:\Projects\ATI\Cafe Billing\obj\Debug\Cafe Billing.exe
+G:\Projects\ATI\Cafe Billing\obj\Debug\Cafe Billing.pdb
